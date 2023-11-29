@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>个人简历</title>
+    <link href="/2023/11/29/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/"/>
+    <url>/2023/11/29/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</url>
+    
+    <content type="html"><![CDATA[<h2 id="个人简历"><a href="#个人简历" class="headerlink" title="个人简历"></a>个人简历</h2><h4 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h4><table><thead><tr><th><strong>姓名</strong>：阿杜</th><th><strong>性别</strong>：男</th></tr></thead><tbody><tr><td><strong>出生</strong>：1993.3</td><td><strong>学历</strong>：统招本科 211</td></tr><tr><td><strong>手机</strong>：153xxxx2345</td><td><strong>邮箱</strong>：<a href="mailto:&#120;&#x78;&#x78;&#64;&#x31;&#54;&#51;&#x2e;&#99;&#111;&#x6d;">&#120;&#x78;&#x78;&#64;&#x31;&#54;&#51;&#x2e;&#99;&#111;&#x6d;</a></td></tr><tr><td><strong>工作时间</strong>：5年</td><td><strong>求职意向</strong>：Java开发工程师</td></tr></tbody></table><h4 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a>工作经历</h4><table><thead><tr><th>上海欧电云信息科技有限公司</th><th>高级开发工程师&#x2F;小组长</th><th>2019.3 - 2021.11</th></tr></thead><tbody><tr><td>AAA有限公司</td><td>中级开发工程师</td><td>2018.4 - 2018.11</td></tr><tr><td>BBB有限公司</td><td>中级开发工程师</td><td>2017.11 - 2018.3</td></tr><tr><td>CCC信息技术有限公司</td><td>初级&#x2F;中级开发工程师</td><td>2015.10 - 2017.10</td></tr></tbody></table><h4 id="专业技能"><a href="#专业技能" class="headerlink" title="专业技能"></a>专业技能</h4><ul><li>Java基础扎实，熟悉JUC、IO、多线程、集合框架等，了解JVM内存模型、垃圾回收，有良好的编码和调试习惯。</li><li>熟悉常用的设计模式、数据结构和算法，并有实际应用。</li><li>xxx等。</li></ul><h4 id="项目经历"><a href="#项目经历" class="headerlink" title="项目经历"></a>项目经历</h4><table><thead><tr><th>AAA项目</th><th>XXX有限公司 &#x2F; 2020.4 ～ 2021.8</th></tr></thead><tbody><tr><td>技术框架</td><td>SpringBoot、Spring Cloud、Mybaits、MySQL、ElasticSearch、RabbitMQ、Redis、Kafka、<br />Zookeeper、Vue等。</td></tr><tr><td>项目简介</td><td>XXX项目是一个XXX平台…</td></tr><tr><td>责任描述</td><td>1.负责xxx组件的封装和维护。<br/>2.负责xxx的设计、接口文档。<br/>3.负责xxx等接口。<br/>4.负责xxx任务等。<br/>5.负责xxx等。</td></tr></tbody></table><table><thead><tr><th>BBB-bbbbbbbbbbb项目</th><th>XXX有限公司 &#x2F; 2019.7 ～ 2020.4</th></tr></thead><tbody><tr><td>技术框架</td><td>SpringBoot、SpringCloud等。</td></tr><tr><td>项目简介</td><td>xxx是xxx的。</td></tr><tr><td>责任描述</td><td>1.负责xxx的方案设计与开发。<br/>2.负责xxx的开发。<br/>4.参与xxx的开发。</td></tr></tbody></table><style>    /* “个人信息”和“工作经历” 第一行不加粗 */    div figure:nth-of-type(1) table th,    div figure:nth-of-type(2) table th {        font-weight: normal;    }    /* “项目经历”的表格宽度设定 */    div figure:nth-of-type(3) table th:nth-of-type(1),    div figure:nth-of-type(4) table th:nth-of-type(1),    div figure:nth-of-type(5) table th:nth-of-type(1),    div figure:nth-of-type(6) table th:nth-of-type(1) {        width: 20% !important;        font-size: 1.2em;        color: black;    }    div figure:nth-of-type(3) table th:nth-of-type(2),    div figure:nth-of-type(4) table th:nth-of-type(2),    div figure:nth-of-type(5) table th:nth-of-type(2),    div figure:nth-of-type(6) table th:nth-of-type(2) {        width: 80% !important;    }    /* “个人简介”距离顶部调整 */    #write h2:first-of-type {        margin-top: 0em;        color: black;    }</style>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2023/11/27/hello-world/"/>
+    <url>/2023/11/27/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
